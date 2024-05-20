@@ -4,7 +4,8 @@ Domine a Inteligência Artificial com Claude 3 no Amazon Bedrock nesta mentoria 
 
 ## Passo a Passo de Configuração
 
-https://photos.app.goo.gl/oCwUJsFmk21yQfWg6
+Para facilitar, criamos uma galeria de fotos com o passo a passo de configuração e uso do Claude 3 no Amazon Bedrock:
+- [Galeria de Imagens](https://photos.app.goo.gl/oCwUJsFmk21yQfWg6)
 
 ## Links Úteis
 
